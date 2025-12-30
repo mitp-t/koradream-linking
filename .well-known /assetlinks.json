@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.jc.StackUp",
+    "sha256_cert_fingerprints":
+    ["95:39:64:75:21:52:53:0A:7D:C7:C1:B3:29:E1:B1:2C:B4:80:BD:CE:06:DA:29:5F:91:59:FA:ED:9A:64:DB:2C"]
+  }
+}]
